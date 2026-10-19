@@ -1,0 +1,21 @@
+# Dependências Node.js
+mcp/node_modules/
+
+# Build compilado (gerado pelo tsc)
+mcp/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente locais
+.env
+.env.local
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
